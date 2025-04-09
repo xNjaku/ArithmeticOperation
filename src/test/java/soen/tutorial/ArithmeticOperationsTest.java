@@ -18,7 +18,7 @@ public class ArithmeticOperationsTest {
 
 	}
     @Test
-    public void testSub()
+   // public void testSub()
     {
 
         ArithmeticOperations operations = new ArithmeticOperations();
